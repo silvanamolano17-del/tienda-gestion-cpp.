@@ -1,0 +1,10 @@
+Salmon ahumado, carnes, 20/05/2025, 1221, 30, 25000.00
+Rugula, verduras, 15/04/2025, 1122, 15, 3700.25
+Yogurt griego, lacteos, 17/04/2025, 1133, 24000
+Arandanos, frutas, 12/06/2025, 1111, 36000
+resas,frutas,2/4/2021,8888,12000,50000
+eche,lacteo,20/8/2023,4555,23000,56000
+uevos,comida,23/9/2060,3333,45666,45600
+ cereal,harinas,2/7/2022,4444,56000,34500
+ chocoramo,snack,3/4/2023,1234,45600,5000
+sal,condimento,3/6/2023,3456,34555,300
