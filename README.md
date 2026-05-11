@@ -31,6 +31,14 @@ El sistema utiliza una jerarquía de estructuras (`structs`) anidadas que modela
 1. **Requisitos:** Tener un compilador de C++ (GCC/MinGW).
 2. **Compilación:**
    ```bash
+
+
+
+
+
+
+
+   
    g++ -o tienda_pos main.cpp
 
    Ejecución: 
