@@ -32,16 +32,8 @@ El sistema utiliza una jerarquía de estructuras (`structs`) anidadas que modela
 2. **Compilación:**
    ```bash
 
-
-
-
-
-
-
-   
    g++ -o tienda_pos main.cpp
-
-   Ejecución: 
+ 
 Asegúrese de tener un archivo llamado productos.txten la misma carpeta antes de iniciar.
 Ejecución:
 ./tienda_pos
